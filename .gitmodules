@@ -1,0 +1,3 @@
+[submodule "Viter/vendor/spdlog"]
+	path = Viter/vendor/spdlog
+	url = https://github.com/gabime/spdlog
